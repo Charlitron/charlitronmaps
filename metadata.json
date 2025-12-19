@@ -1,0 +1,13 @@
+{
+  "name": "Charlitron Maps - Radar Industrial Pro",
+  "short_name": "Charlitron",
+  "description": "Epicentro de geolocalización industrial y red de proveeduría estratégica.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#D43D89",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

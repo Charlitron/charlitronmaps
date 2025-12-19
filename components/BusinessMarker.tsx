@@ -1,0 +1,3 @@
+
+// Eliminado
+export default () => null;
